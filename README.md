@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe1127
-- 👀 I’m interested in coding
+- 👀 I’m interested in reading & coding
 - 🌱 I’m currently learning Kotlin
 
 <!---
